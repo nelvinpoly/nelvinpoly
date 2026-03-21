@@ -55,7 +55,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nelvinpoly&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelvinpoly&theme=radical" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelvinpoly&theme=radical" /> -->
 
 <img src="https://streak-stats.demolab.com?user=nelvinpoly&theme=radical&hide_border=true" />
 
