@@ -80,22 +80,6 @@
 * ⚡ High-performance distributed architectures
 
 ---
-
-## 🌍 Goals
-
-* 🚀 Become an expert in **distributed systems**
-* ☸️ Master **Kubernetes & cloud-native development**
-* 🌍 Work on **global-scale engineering teams**
-
----
-
-## ⚡ Fun Fact
-
-* 🏍️ Passionate about motorcycling and long rides
-* 🏕️ Enjoy hiking, travelling, and camping
-* 🎬 Movie enthusiast
-* 📚 Interested in history and science
-
 ## 🚀 Tech Stack
 
 ### 💻 Backend
@@ -125,6 +109,25 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+## 🌍 Goals
+
+* 🚀 Become an expert in **distributed systems**
+* ☸️ Master **Kubernetes & cloud-native development**
+* 🌍 Work on **global-scale engineering teams**
+
+---
+
+## ⚡ Fun Fact
+
+* 🏍️ Passionate about motorcycling and long rides
+* 🏕️ Enjoy hiking, travelling, and camping
+* 🎬 Movie enthusiast
+* 📚 Interested in history and science
+
+
 
 ---
 
