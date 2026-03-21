@@ -1,25 +1,35 @@
-## Hi there 👋 I'm Nelvin
+<center>
 
-🚀 **Java Full Stack Developer | Spring Boot | React | Microservices | AWS**
+<h1 align="center">Hi there 👋 I'm Nelvin</h1>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;React+%7C+PostgreSQL;Building+Scalable+Systems;Open+to+Global+Opportunities&center=true&width=520&height=45">
 
-### 👨‍💻 About Me
+<div align="center">
 
-* 🔭 I’m currently working on **Java Spring Boot & React full-stack applications**
-* ⚙️ Experienced in building **scalable backend systems & microservices**
-* 🏦 Worked on **banking systems (JPMorgan Chase)** & **government platforms (NG-ERSS)**
-* 🗄️ Strong in **PostgreSQL, MySQL & database optimization**
-* 🔗 Skilled in **REST APIs, system integration & distributed systems**
-* ☁️ Experience with **AWS deployment & Linux servers**
-* 🌱 I’m currently learning **Docker, Kubernetes & advanced system design**
-* 👯 I’m looking to collaborate on **backend / full-stack open-source projects**
-* 💬 Ask me about **Java, Spring Boot, APIs, or System Design**
-* 📫 How to reach me: **[nelvinpoly2306@gmail.com](mailto:nelvinpoly2306@gmail.com)**
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&label=PROFILE+VIEWS)
+
+</div>
+
+</center>
 
 ---
 
-### 🚀 Tech Stack
+## 👨‍💻 About Me
+
+* 🚀 **Java Full Stack Developer | Spring Boot | React | Microservices | AWS**
+* 💼 3+ years building **scalable backend systems & distributed architectures**
+* 🏦 Experience with **JPMorgan Chase (Banking)** & **NG-ERSS (Government platform)**
+* ⚙️ Strong in **REST APIs, system integration & performance optimization**
+* 🗄️ Hands-on with **PostgreSQL, MySQL & database tuning**
+* ☁️ Worked on **AWS deployments, Linux servers & production systems**
+* 🌱 Currently learning **Docker, Kubernetes & advanced system design**
+* 🌍 Open to ** Remote opportunities**
+
+📫 **Reach me:** [nelvinpoly2306@gmail.com](mailto:nelvinpoly2306@gmail.com)
+
+---
+
+## 🚀 Tech Stack
 
 **Backend:** Java, Spring Boot, REST APIs
 **Frontend:** React.js, JavaScript, HTML, CSS
@@ -29,17 +39,49 @@
 
 ---
 
-### 🏆 Highlights
+## 🏆 Impact & Highlights
 
 * 🚨 Built **real-time emergency response system (NG-ERSS)**
 * ⚡ Designed **Kafka-based microservices architecture**
 * 🚗 Developed **Vehicle Management & Drone Dispatch systems**
-* 🏦 Contributed to **enterprise banking apps (JPMorgan Chase)**
-* 📈 Improved performance using **Redis caching & optimized queries**
+* 🏦 Contributed to **enterprise banking applications (JPMorgan Chase)**
+* 📈 Improved system performance using **Redis caching & query optimization**
 
 ---
 
-### 🌍 Goals
+## 📊 GitHub Stats
+
+<center>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+
+</center>
+
+---
+
+## 🐍 Contribution Graph
+
+<center>
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+
+</center>
+
+---
+
+## 🎯 Current Focus
+
+* ☸️ Kubernetes & Cloud-Native Systems
+* 🧠 Advanced System Design
+* ⚡ High-performance distributed architectures
+
+---
+
+## 🌍 Goals
 
 * 🚀 Become an expert in **distributed systems**
 * ☸️ Master **Kubernetes & cloud-native development**
@@ -47,10 +89,9 @@
 
 ---
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
-* 🏍️ I love motorcycling and long rides
-* 🏕️ Into hiking, travelling, and camping
-* 🎬 Love watching movies
+* 🏍️ Passionate about motorcycling and long rides
+* 🏕️ Enjoy hiking, travelling, and camping
+* 🎬 Movie enthusiast
 * 📚 Interested in history and science
-
