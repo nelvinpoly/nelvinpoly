@@ -23,7 +23,7 @@
 * 🗄️ Hands-on with **PostgreSQL, MySQL & database tuning**
 * ☁️ Worked on **AWS deployments, Linux servers & production systems**
 * 🌱 Currently learning **Docker, Kubernetes & advanced system design**
-* 🌍 Open to ** Remote opportunities**
+* 🌍 Open to **Remote opportunities**
 
 📫 **Reach me:** [nelvinpoly2306@gmail.com](mailto:nelvinpoly2306@gmail.com)
 
