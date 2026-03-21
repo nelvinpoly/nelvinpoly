@@ -63,13 +63,13 @@
 
 ---
 
-## 🐍 Contribution Graph
+<!-- ## 🐍 Contribution Graph
 
 <center>
 
 <img src="https://github.com/nelvinpoly/nelvinpoly/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 
-</center>
+</center> -->
 
 ---
 
