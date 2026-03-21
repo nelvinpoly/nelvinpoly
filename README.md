@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=nelvinpoly\&color=blueviolet\&label=PROFILE+VIEWS)
 
 </div>
 
