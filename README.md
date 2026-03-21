@@ -97,7 +97,6 @@
 
 ---
 
----
 ## 🌍 Goals
 
 * 🚀 Become an expert in **distributed systems**
