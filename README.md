@@ -82,39 +82,16 @@
 ---
 ## 🚀 Tech Stack
 
-### 💻 Backend
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-
----
-
-### 🗄️ Database
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
-
----
-
-### ⚡ Messaging & Architecture
-
 ![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apache-kafka\&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge)
-
----
-
-### 🌐 Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-
----
-
-### ⚙️ DevOps & System
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
