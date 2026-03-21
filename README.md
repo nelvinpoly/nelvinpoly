@@ -49,5 +49,8 @@
 
 ### ⚡ Fun Fact
 
-* 🐱 I love cats
-* 🎬 Interested in storytelling & tech-driven ideas
+* 🏍️ I love motorcycling and long rides
+* 🏕️ Into hiking, travelling, and camping
+* 🎬 Love watching movies
+* 📚 Interested in history and science
+
