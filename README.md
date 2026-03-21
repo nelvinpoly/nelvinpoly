@@ -53,11 +53,11 @@
 
 <center>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nelvinpoly&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nelvinpoly&theme=radical" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nelvinpoly&theme=radical&hide_border=true" />
 
 </center>
 
@@ -67,7 +67,7 @@
 
 <center>
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+<img src="https://github.com/nelvinpoly/nelvinpoly/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 
 </center>
 
