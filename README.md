@@ -18,7 +18,7 @@
 
 * 🚀 **Java Full Stack Developer | Spring Boot | React | Microservices | AWS**
 * 💼 3+ years building **scalable backend systems & distributed architectures**
-* 🏦 Experience with **JPMorgan Chase (Banking)** & **NG-ERSS (Government platform)**
+* 🏦 Experience with **JPMorgan Chase (Banking)** & **ERSS (Government platform)**
 * ⚙️ Strong in **REST APIs, system integration & performance optimization**
 * 🗄️ Hands-on with **PostgreSQL, MySQL & database tuning**
 * ☁️ Worked on **AWS deployments, Linux servers & production systems**
